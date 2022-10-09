@@ -1,0 +1,7 @@
+1)System chrome browser and WebDriver version to be compatible (Chrome driver version 105.0.5195.127)
+2)I have created Page Object Model framework for UI automation
+3)Created the PageObjects as CartPage.java,LaningPage.java,LoginPage.java and SearchPage.java and 
+one test class as BaseUITest inside the  package name as src/main/java ->applicationpages
+4)Included selenium jar file in pom.xml 
+5Created Testdata file and placed in Project folder and its named as testdata.txt
+5)Right Click on BaseUITest.java file and Run As ->TestNG Test
